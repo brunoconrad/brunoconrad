@@ -3,7 +3,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoconrad&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoconrad&layout=compact&langs_count=7&theme=dracula"/>
 </div>
- 
+
+<img src="https://komarev.com/ghpvc/?username=brunoconrad&color=yellow" alt="Profile views" /> 
+
 ![Snake animation](https://github.com/brunoconrad/brunoconrad/blob/output/github-contribution-grid-snake.svg)
   
 <div style="display: inline_block">
